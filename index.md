@@ -3,7 +3,7 @@ title: "About"
 layout: page
 ---
 
-![title](/assets/img/old-classroom-croped.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
+![title](/assets/img/zurich-icm-cropped.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
 # About
 
@@ -59,4 +59,5 @@ For any questions, please send an email to yacin dot hamami at uliege dot be or 
 The workshop is funded by the [Centre for Mathematical Cognition](https://www.lboro.ac.uk/research/cmc/) at [Loughborough University](https://www.lboro.ac.uk/). It is (non-financially) sponsored by the [Association for the Philosophy of Mathematical Practice](http://www.philmathpractice.org/) and the [Chair Diversity of Mathematical Research Cultures and Practices](http://dmrcp.cipsh.international/) at [Universität Hamburg](https://www.uni-hamburg.de/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
-![title](/assets/img/loughborough-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+![title](/assets/img/clea-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+![title](/assets/img/VUB-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}

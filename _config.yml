@@ -1,0 +1,33 @@
+title: "Mathematics Education meets the Philosophy of Mathematical Practice"
+author: "Blog Author"
+description: "Powered by Jekyll + GitHub Pages + Contrast"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: false # show article excerpts on the home page
+show_frame: false # adds a gray frame to the site
+show_sidebar: false # show a sidebar instead of the usual header
+minimal: false # use a dark header
+
+# Menu
+
+navigation: # accepts {file, title, url, icon, sidebaricon}
+  #  - { file: "index.html" }
+  #  - { file: "README.md" }
+  - { file: "program.md" }
+
+external: # shows a footer with social links - for available icons see fontawesome.com/icons
+  - { title: Mail, icon: envelope, url: "mailto:yacin.hamami@uliege.be" }
+  - { title: Github, icon: github, url: "https://github.com/yhamami" }
+#  - { title: Subscribe, icon: rss, url: "/feed.xml" }
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+  - jekyll-feed

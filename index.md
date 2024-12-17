@@ -51,4 +51,4 @@ The workshop is funded by the FWO Senior Research Project "Collective Knowledge 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/clea-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
 ![title](/assets/img/VUB-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
-![title](/assets/img/FWO-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+![title](/assets/img/FWO-logo.jpg){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}

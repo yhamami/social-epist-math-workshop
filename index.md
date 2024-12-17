@@ -9,7 +9,7 @@ layout: page
 
 Like other scientific fields, mathematics is a collective endeavor. Although the social dimension of mathematics has been mostly neglected in the philosophy of mathematics, it has become a central subject of investigation within the so-called philosophy of mathematical practice. The objective of this workshop is to bring together philosophers of mathematical practice to present and discuss recent advances in the **social epistemology of mathematics**. 
 
-The workshop will take place on **February 5 (at 3pm) to February 6 (at 3pm), 2025,** at [Vrije Universiteit Brussel](https://www.vub.be/). It is an in-person event. 
+The workshop will take place on **February 5 (starting at 3pm) to February 6 (ending at 3pm), 2025,** at the [Vrije Universiteit Brussel](https://www.vub.be/). It is an in-person event. 
 
 # Speakers
 

@@ -7,9 +7,9 @@ layout: page
 
 # About
 
-The objective of this workshop is to bring together **mathematics educators** and **philosophers of mathematical practice** to discuss topics lying at the crossroads of the two fields. The workshop is meant as an incentive for researchers from both fields to make a step towards the other one. It will also be the occasion to reflect more generally on the most beneficial ways for mathematics education and the philosophy of mathematical practice to interact.
+Like other scientific fields, mathematics is a collective endeavor. The objective of this workshop is to bring together philosophers of mathematical practice with an interest in the social aspects of knowledge production in mathematics. 
 
-The workshop will take place on **June 12-14, 2023** at [Loughborough University](https://www.lboro.ac.uk/).
+The workshop will take place on **February 5-6, 2025** at [Vrije Universiteit Brussel](https://www.vub.be/).
 
 # Speakers
 
@@ -24,15 +24,11 @@ The workshop will take place on **June 12-14, 2023** at [Loughborough University
 
 # Program
 
-The program is available [here](https://yhamami.github.io/mathed-pmp-workshop/program/).
+TBA.
 
 # Location
 
-The workshop will take place in Room SCH001 of the [Schofield Building](https://maps.lboro.ac.uk/?l=schofield). Coffee and lunch breaks will be in the room opposite to it. 
-
-# Online Attendance & Live Stream
-
-The workshop will be streamed live on StreamYard [here](https://streamyard.com/watch/3f66Fp3jzUgP) (recommended) and YouTube [here](https://www.youtube.com/@LboroCMC/streams).
+Room TBA. 
 
 # Registration
 
@@ -40,14 +36,13 @@ The event is free but registration for online or physical attendance is mandator
 
 # Contact
 
-For any questions, please send an email to yacin dot hamami at uliege dot be or m dot j dot inglis at lboro dot ac dot uk.
+For any questions, please send an email to line dot edslev dot andersen at vub dot be.
 
 # Organizers
 
+- [Line Edslev Andersen](https://clps.research.vub.be/line-edslev-andersen) (Vrije Universiteit Brussel)
 - [Yacin Hamami](https://www.yacinhamami.com/) (ETH Zürich)
-- [Matthew Inglis](https://www.lboro.ac.uk/departments/maths-education/staff/matthew-inglis/) (Loughborough University)
-- [Brendan Larvor](https://brendanlarvor.wordpress.com/) (University of Hertfordshire)
-- [Keith Weber](https://gse.rutgers.edu/faculty/keith-weber/) (Rutgers University)
+- [Bart Van Kerkhove](https://bartvankerkhove.be) (Vrije Universiteit Brussel)
 
 # Acknowledgement and Support
 

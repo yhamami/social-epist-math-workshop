@@ -13,7 +13,7 @@ The workshop will take place on **June 12-14, 2023** at [Loughborough University
 
 # Invited Speakers
 
-- **Silvia De Toffoli** (IUSS Pavia School for Advanced Studies)
+- **Line Edslev Andersen** (IUSS Pavia School for Advanced Studies)
 - **Colin Foster** (Loughborough University)
 - **Karen François** (Vrije Universiteit Brussel)
 - **Valeria Giardino** (Institut Jean Nicod, CNRS)

@@ -9,7 +9,7 @@ layout: page
 
 Like other scientific fields, mathematics is a collective endeavor. The objective of this workshop is to bring together philosophers of mathematical practice with an interest in the social aspects of knowledge production in mathematics. 
 
-The workshop will take place on **February 5-6, 2025** at [Vrije Universiteit Brussel](https://www.vub.be/). It is an in-person event. 
+The workshop will take place on **February 5 (at 3pm) to February 6 (at 3pm), 2025** at [Vrije Universiteit Brussel](https://www.vub.be/). It is an in-person event. 
 
 # Speakers
 
@@ -46,7 +46,7 @@ For any questions, please send an email to line dot edslev dot andersen at vub d
 
 # Acknowledgement and Support
 
-The workshop is funded by the [Centre for Mathematical Cognition](https://www.lboro.ac.uk/research/cmc/) at [Loughborough University](https://www.lboro.ac.uk/). It is (non-financially) sponsored by the [Association for the Philosophy of Mathematical Practice](http://www.philmathpractice.org/) and the [Chair Diversity of Mathematical Research Cultures and Practices](http://dmrcp.cipsh.international/) at [Universität Hamburg](https://www.uni-hamburg.de/).
+The workshop is funded by the [FWO Senior Research Project "Collective Knowledge in Mathematics: Proofs, Collective Justification, and Reliability" (FWOAL1068)] and by [Centre Leo Apostel](https://clea.research.vub.be/) at the [Vrije Universiteit Brussel](https://www.vub.be/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/clea-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}

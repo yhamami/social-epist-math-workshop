@@ -46,7 +46,7 @@ For any questions, please send an email to line dot edslev dot andersen at vub d
 
 # Acknowledgement and Support
 
-The workshop is funded by the [FWO Senior Research Project "Collective Knowledge in Mathematics: Proofs, Collective Justification, and Reliability" (FWOAL1068)] and by [Centre Leo Apostel](https://clea.research.vub.be/) at the [Vrije Universiteit Brussel](https://www.vub.be/).
+The workshop is funded by the FWO Senior Research Project "Collective Knowledge in Mathematics: Proofs, Collective Justification, and Reliability" (FWOAL1068) and by [Centre Leo Apostel](https://clea.research.vub.be/) at the [Vrije Universiteit Brussel](https://www.vub.be/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
 ![title](/assets/img/clea-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}

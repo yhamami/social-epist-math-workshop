@@ -11,21 +11,16 @@ The objective of this workshop is to bring together **mathematics educators** an
 
 The workshop will take place on **June 12-14, 2023** at [Loughborough University](https://www.lboro.ac.uk/).
 
-# Invited Speakers
+# Speakers
 
-- **Line Edslev Andersen** (IUSS Pavia School for Advanced Studies)
-- **Colin Foster** (Loughborough University)
-- **Karen François** (Vrije Universiteit Brussel)
-- **Valeria Giardino** (Institut Jean Nicod, CNRS)
+- **Line Edslev Andersen** (Vrije Universiteit Brussel)
+- **Carolin Antos-Kuby** (Universität Konstanz)
 - **Yacin Hamami** (ETH Zürich)
-- **Gila Hanna** (University of Toronto)
-- **Matthew Inglis** (Loughborough University)
-- **Brendan Larvor** (University of Hertfordshire)
-- **Ellen Lehet** (Lees-McRae College)
-- **Dirk Schlimm** (McGill University)
-- **Nathalie Sinclair** (Simon Fraser University)
+- **Deborah Kant** (Universität Hamburg)
+- **Deniz Sarikaya** (Universität zu Lübeck and Vrije Universiteit Brussel)
+- **Colin Jakob Rittberg** (Vrije Universiteit Brussel)
 - **Fenner Tanswell** (TU Berlin)
-- **Keith Weber** (Rutgers University)
+- **Bart Van Kerkhove** (Vrije Universiteit Brussel)  
 
 # Program
 

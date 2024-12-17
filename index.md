@@ -9,7 +9,7 @@ layout: page
 
 Like other scientific fields, mathematics is a collective endeavor. The objective of this workshop is to bring together philosophers of mathematical practice with an interest in the social aspects of knowledge production in mathematics. 
 
-The workshop will take place on **February 5-6, 2025** at [Vrije Universiteit Brussel](https://www.vub.be/).
+The workshop will take place on **February 5-6, 2025** at [Vrije Universiteit Brussel](https://www.vub.be/). It is an in-person event. 
 
 # Speakers
 
@@ -32,7 +32,7 @@ Room TBA.
 
 # Registration
 
-The event is free but registration for online or physical attendance is mandatory. You can register [here](https://forms.gle/CQYVJfEmoo68KQg66).
+The event is free but registration is mandatory. You can register by sending an email to line dot edslev dot andersen at vub dot be.
 
 # Contact
 

@@ -17,8 +17,8 @@ The workshop will take place on **February 5 (starting at 3pm) to February 6 (en
 - **Carolin Antos-Kuby** (Universität Konstanz)
 - **Yacin Hamami** (CNRS, Université de Lorraine & ETH Zürich)
 - **Deborah Kant** (Universität Hamburg)
-- **Deniz Sarikaya** (Universität zu Lübeck & Vrije Universiteit Brussel)
 - **Colin Jakob Rittberg** (Vrije Universiteit Brussel)
+- **Deniz Sarikaya** (Universität zu Lübeck & Vrije Universiteit Brussel)
 - **Fenner Tanswell** (TU Berlin)
 - **Bart Van Kerkhove** (Vrije Universiteit Brussel)  
 

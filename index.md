@@ -28,7 +28,7 @@ TBA.
 
 # Location
 
-TBA. 
+Room C4.09 (Building C, 4th floor), Vrije Universiteit Brussel, Etterbeek Campus, Brussels. 
 
 # Registration
 

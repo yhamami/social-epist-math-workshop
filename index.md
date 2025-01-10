@@ -24,7 +24,7 @@ The workshop will take place on **February 5 (starting at 3pm) to February 6 (en
 
 # Program
 
-TBA.
+The program is available [here](/social-epist-math-workshop/program/).
 
 # Location
 

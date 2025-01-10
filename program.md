@@ -15,9 +15,10 @@ layout: page
 | 15:15—16:15 | **Carolin Antos–Kuby** (Universität Konstanz) <br /> _Group explanation_ |
 | 16:15—17:15 | **Deborah Kant** (Universität Hamburg) <br /> _The role of value judgements in mathematics_ |
 | 17:15—17:45 | Coffee break |
-| 17:45—18:45 | **Yacin Hamami** (CNRS, Université de Lorraine) <br /> _Reflections on the notion of collective knowledge in mathematics_|
-| --------- | ---------- |
+| 17:45—18:45 | **Yacin Hamami** (CNRS, Université de Lorraine) <br /> _Reflections on the notion of collective knowledge in mathematics_ |
 | 19:30— | Dinner | 
+
+
 
 **Thursday 6 February 2025** (Room: C4.09)
 
@@ -70,17 +71,18 @@ An ‘epistemology of attention’ is a philosophical framework that explores ho
 TBA
 
 
-
 # Organizers
 
-- [Yacin Hamami](https://www.yacinhamami.com/) (ETH Zürich)
-- [Matthew Inglis](https://www.lboro.ac.uk/departments/maths-education/staff/matthew-inglis/) (Loughborough University)
-- [Brendan Larvor](https://brendanlarvor.wordpress.com/) (University of Hertfordshire)
-- [Keith Weber](https://gse.rutgers.edu/faculty/keith-weber/) (Rutgers University)
+- [Line Edslev Andersen](https://clps.research.vub.be/line-edslev-andersen) (Vrije Universiteit Brussel)
+- [Yacin Hamami](https://www.yacinhamami.com/) (CNRS, Université de Lorraine & ETH Zürich)
+- [Bart Van Kerkhove](https://bartvankerkhove.be) (Vrije Universiteit Brussel)
 
 # Acknowledgement and Support
 
-The workshop is funded by the [Centre for Mathematical Cognition](https://www.lboro.ac.uk/research/cmc/) at [Loughborough University](https://www.lboro.ac.uk/). It is (non-financially) sponsored by the [Association for the Philosophy of Mathematical Practice](http://www.philmathpractice.org/) and the [Chair Diversity of Mathematical Research Cultures and Practices](http://dmrcp.cipsh.international/) at [Universität Hamburg](https://www.uni-hamburg.de/).
+The workshop is funded by the [FWO](https://www.fwo.be/en/) Senior Research Project “Collective Knowledge in Mathematics: Proofs, Collective Justification, and Reliability” (FWOAL1068) and by the [Centre Leo Apostel](https://clea.research.vub.be/) at the [Vrije Universiteit Brussel](https://www.vub.be/).
 
 {:style="display:block; margin-left:auto; margin-right:auto" width="100"}
-![title](/assets/img/loughborough-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+![title](/assets/img/clea-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+![title](/assets/img/VUB-logo.png){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+![title](/assets/img/FWO-logo.jpg){:style="display:block; margin-left:auto; margin-right:auto; padding:10px" width="200"}
+

@@ -23,12 +23,12 @@ layout: page
 **Thursday 6 February 2025** (Room: C4.09)
 
 | --------- | ---------- |
-| 9:00—10:00 | **Fenner Tanswell** (TU Berlin) <br /> _Can mathematical knowledge be hacked? Social epistemology, infrastructure, and the cybersecurity of mathematics_ |
+| 9:00—10:00 | **Fenner Tanswell** (TU Berlin) <br /> _Can mathematical knowledge be hacked? Social epistemology,  <br /> infrastructure, and the cybersecurity of mathematics_ |
 | 10:00—11:00 | **Deniz Sarikaya** (Universität zu Lübeck & Vrije Universiteit Brussel) <br /> _Big strokes and the mathematical landscape_ |
 | 11:00—11:30 | Coffee break |
 | 11:30—12:30 | **Colin Jakob Rittberg** (Vrije Universiteit Brussel) <br /> _Attention Please! Mathematical knowledge in the making_|
 | 12:30—13:00 | Sandwich lunch (to be continued during the round-table) |
-| 13:00—13:45 | Round-table on the future of social epistemology of mathematics: Possible topics, events, network, and special issue |
+| 13:00—13:45 | Round-table on the future of social epistemology of mathematics:  <br /> Possible topics, events, network, and special issue |
 | 13:45—14:45 | **Line Edslev Andersen** (Vrije Universiteit Brussel) <br /> _Maintaining community knowledge: The case of mathematics_ |
 | 14:45—15:00 | **Bart Van Kerkhove** (Vrije Universiteit Brussel) <br /> _Concluding remarks_ |
 

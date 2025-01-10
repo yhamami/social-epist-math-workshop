@@ -4,7 +4,8 @@ permalink: "/program/"
 layout: page
 ---
 
-![title](/assets/img/old-classroom-croped.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
+![title](/assets/img/zurich-icm-cropped.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
+
 
 # Program
 

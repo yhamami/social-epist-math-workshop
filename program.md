@@ -46,9 +46,9 @@ Social epistemology studies the social aspects of knowledge. In this talk I want
 
 Value judgements are pervasive in mathematical discourse, yet philosophers often downplay their epistemic significance, categorizing them instead as pragmatic considerations or subjective matters of taste. From a social epistemological perspective, what role do value judgements play in mathematics? In this talk, I will summarize the key findings of my PhD thesis on naturalness judgments, propose a broader generalization to value judgements, review contemporary research in this area, and pose critical questions inspired by the current state of the field.
 
-**Yacin Hamami (CNRS, Université de Lorraine) (and Line Edslev Andersen): _Reflections on the notion of collective knowledge in mathematics_**
+**Yacin Hamami (CNRS, Université de Lorraine) (with Line Edslev Andersen): _Reflections on the notion of collective knowledge in mathematics_**
 
-TBA
+The notion of collective knowledge has recently received a lot of attention in social epistemology and social philosophy of science, but it remains understudied in the context of mathematics. In this talk, we will discuss a potential framework that could be useful to articulate a characterization of collective knowledge in mathematics.
 
 **Fenner Tanswell (TU Berlin): _Can mathematical knowledge be hacked? Social epistemology, infrastructure, and the cybersecurity of mathematics_**
 
@@ -67,9 +67,9 @@ Heuer, Karl and Deniz Sarikaya (2023). Paving the cowpath in research within pur
 
 An ‘epistemology of attention’ is a philosophical framework that explores how attention influences what we know, how we come to know it, and the validity of knowledge. It considers how directing attention (or failing to do so) shapes our understanding of the world, including what kinds of truths, insights, or knowledge we access or overlook. This idea builds on the notion that attention is not neutral or passive; it plays an active role in shaping cognition and perception, and thus knowledge itself. In this talk I will reflect on how my prior work has contributed to developing an epistemology of attention for mathematics and present some lines of research I’d like to pursue in the future.  
 
-**Line Edslev Andersen (Vrije Universiteit Brussel) (and Yacin Hamami): _Maintaining community knowledge: The case of mathematics_**
+**Line Edslev Andersen (Vrije Universiteit Brussel) (with Yacin Hamami): _Maintaining community knowledge: The case of mathematics_**
 
-TBA
+One of the main questions in social epistemology is the question of when a group or community can be said to _have_ knowledge, at a particular _point in time_. While this question has been widely discussed, little attention has been paid to the question of how a group or community can _maintain_ knowledge _over time_. The question of how collective knowledge is maintained seems to be important if, for example, we want to be able to explain the reliance of researchers on past work. In this talk, we sketch an account of how the mathematical community remembers proofs of the past, and address the implications of our account for the broader question of how collective knowledge is maintained.
 
 
 # Organizers

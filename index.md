@@ -28,7 +28,7 @@ The program is available [here](/social-epist-math-workshop/program/).
 
 # Location
 
-Room C4.09 (Building C, 4th floor), Vrije Universiteit Brussel, Etterbeek Campus, Brussels. 
+New room: C.5.04 (Building C, 5th floor), Vrije Universiteit Brussel, Etterbeek Campus, Brussels. 
 
 # Registration
 

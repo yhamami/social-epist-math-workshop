@@ -9,7 +9,7 @@ layout: page
 
 # Program
 
-**Wednesday 5 February 2025** (Room: C4.09)
+**Wednesday 5 February 2025** (Room: C.5.04)
 
 | --------- | ---------- |
 | 15:00—15:15 | **Bart Van Kerkhove** (Vrije Universiteit Brussel) <br /> _Introductory remarks_ |
@@ -21,7 +21,7 @@ layout: page
 
 
 
-**Thursday 6 February 2025** (Room: C4.09)
+**Thursday 6 February 2025** (Room: C.5.04)
 
 | --------- | ---------- |
 | 9:00—10:00 | **Fenner Tanswell** (TU Berlin) <br /> _Can mathematical knowledge be hacked? Social epistemology,  <br /> infrastructure, and the cybersecurity of mathematics_ |

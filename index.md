@@ -15,7 +15,7 @@ The workshop will take place on **February 5 (starting at 3pm) to February 6 (en
 
 - **Line Edslev Andersen** (Vrije Universiteit Brussel)
 - **Carolin Antos-Kuby** (Universität Konstanz)
-- **Yacin Hamami** (CNRS, Université de Lorraine & ETH Zürich)
+- **Yacin Hamami** (CNRS, Université de Lorraine)
 - **Deborah Kant** (Universität Hamburg)
 - **Colin Jakob Rittberg** (Vrije Universiteit Brussel)
 - **Deniz Sarikaya** (Universität zu Lübeck & Vrije Universiteit Brussel)
@@ -41,7 +41,7 @@ For any questions, please send an email to line dot edslev dot andersen at vub d
 # Organizers
 
 - [Line Edslev Andersen](https://clps.research.vub.be/line-edslev-andersen) (Vrije Universiteit Brussel)
-- [Yacin Hamami](https://www.yacinhamami.com/) (CNRS, Université de Lorraine & ETH Zürich)
+- [Yacin Hamami](https://www.yacinhamami.com/) (CNRS, Université de Lorraine)
 - [Bart Van Kerkhove](https://bartvankerkhove.be) (Vrije Universiteit Brussel)
 
 # Acknowledgement and Support

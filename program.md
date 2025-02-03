@@ -17,7 +17,7 @@ layout: page
 | 16:15—17:15 | **Deborah Kant** (Universität Hamburg) <br /> _The role of value judgements in mathematics_ |
 | 17:15—17:45 | Coffee break |
 | 17:45—18:45 | **Yacin Hamami** (CNRS, Université de Lorraine) <br /> _Reflections on the notion of collective knowledge in mathematics_ |
-| 19:30— | Dinner at the restaurant [Au Stekerlapatte](https://www.austekerlapatte.be/), 4 rue des prêtres, 1000 Bruxelles | 
+| 19:30— | Dinner at the restaurant [Au Stekerlapatte](https://www.austekerlapatte.be/), <br /> 4 rue des prêtres, 1000 Bruxelles | 
 
 
 
@@ -75,7 +75,7 @@ One of the main questions in social epistemology is the question of when a group
 # Organizers
 
 - [Line Edslev Andersen](https://clps.research.vub.be/line-edslev-andersen) (Vrije Universiteit Brussel)
-- [Yacin Hamami](https://www.yacinhamami.com/) (CNRS, Université de Lorraine & ETH Zürich)
+- [Yacin Hamami](https://www.yacinhamami.com/) (CNRS, Université de Lorraine)
 - [Bart Van Kerkhove](https://bartvankerkhove.be) (Vrije Universiteit Brussel)
 
 # Acknowledgement and Support

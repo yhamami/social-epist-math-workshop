@@ -17,7 +17,7 @@ layout: page
 | 16:15—17:15 | **Deborah Kant** (Universität Hamburg) <br /> _The role of value judgements in mathematics_ |
 | 17:15—17:45 | Coffee break |
 | 17:45—18:45 | **Yacin Hamami** (CNRS, Université de Lorraine) <br /> _Reflections on the notion of collective knowledge in mathematics_ |
-| 19:30— | Dinner | 
+| 19:30— | Dinner at the restaurant [Au Stekerlapatte](https://www.austekerlapatte.be/), 4 rue des prêtres, 1000 Bruxelles  | 
 
 
 

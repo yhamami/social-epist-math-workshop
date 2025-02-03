@@ -44,7 +44,7 @@ For any questions, please send an email to line dot edslev dot andersen at vub d
 == Organizers
 
 Line Edslev Andersen (Vrije Universiteit Brussel)
-Yacin Hamami (CNRS, Université de Lorraine)
+Yacin Hamami (CNRS, Université de Lorraine & ETH Zürich)
 Bart Van Kerkhove (Vrije Universiteit Brussel)
 
 == Acknowledgement and Support
